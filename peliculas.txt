@@ -1,5 +1,11 @@
 La vida de Braian
+<<<<<<< HEAD
 Love Actually
 Monty Python and The Holy Grail
 Love Actually
 Sin razón
+=======
+Monty Python and The Holy Grail
+Love Actually
+Mulan
+>>>>>>> 7b47655 (Añadir Mulan)
